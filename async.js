@@ -12,3 +12,5 @@ const myfun = async()=>{
     console.log("456")
 };
 myfun()
+
+console.log("testing")
